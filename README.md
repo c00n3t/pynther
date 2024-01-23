@@ -10,7 +10,7 @@ You can download the most updated version here: ![](https://github.com/juosu/pyn
 Cloning
 -------
 To clone this repository:
-git clone https://github.com/crazzezero/pynther
+git clone https://github.com/juosu/pynther
 
 Dependencies on Linux / macOS
 -----------------------------
