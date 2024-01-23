@@ -1,7 +1,5 @@
-[![Buy me a coffee](https://buymeacoffee.com/juoosu)
-[![DDraceNetwork](https://ddnet.org/ddnet-small.png)](https://ddnet.org)
 A program that helps with Text-to-Image reading.
-You can download the most updated version here: ![](https://github.com/juosu/pynther/releases)
+You can download the most updated version here:
 ### Features
 * ` Support for Russian, English and Portuguese`
 * ` Auto update functions`
