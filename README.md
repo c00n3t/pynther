@@ -1,4 +1,4 @@
-![Buy me a coffee](https://buymeacoffee.com/crazze)
+[![](https://buymeacoffee.com/juoosu)
 
 A program that helps with Text-to-Image reading.
 You can download the most updated version here: ![](https://github.com/juosu/pynther/releases)
