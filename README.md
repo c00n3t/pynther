@@ -1,7 +1,7 @@
 ![](https://buymeacoffee.com/crazze)
 
 A program that helps with Text-to-Image reading.
-You can download the most updated version here: ![](https://github.com/crazzezero/pynther/releases)
+You can download the most updated version here: ![](https://github.com/juosu/pynther/releases)
 ### Features
 * ` Support for Russian, English and Portuguese`
 * ` Auto update functions`
