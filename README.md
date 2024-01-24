@@ -8,12 +8,14 @@ You can download the most updated version here:
 Cloning
 -------
 To clone this repository:
-git clone https://github.com/juosu/pynther
+
+```git clone https://github.com/juoosu/pynther```
 
 Dependencies on Linux / macOS
 -----------------------------
 You can install the required libraries following the command (Ubuntu and its derivatives):
-sudo apt install tesseract-ocr
+
+```sudo apt install tesseract-ocr```
 
 
 
